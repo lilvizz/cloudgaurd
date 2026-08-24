@@ -15,3 +15,6 @@ service-account.json
 
 # IDE settings
 .vscode/
+
+# ADK local session data
+.adk/
